@@ -1,0 +1,7 @@
+Flock Data: 
+Cohesion distance: 14000
+Cohesion weight: 0.42
+Separation distance: 8000
+Separation weight: 0.44
+Alignment distance: 6000
+Alignment weight: 0.49

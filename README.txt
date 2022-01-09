@@ -1,0 +1,1 @@
+This is a compilation of AI steering and navigation behaviors. They were made during a college course on game AI.
